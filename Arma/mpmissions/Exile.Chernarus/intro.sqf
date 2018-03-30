@@ -1,0 +1,4 @@
+endLoadingScreen;
+ExileClientIntroIsPlaying = false;
+
+true
